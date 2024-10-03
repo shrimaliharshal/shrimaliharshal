@@ -8,7 +8,7 @@ Hi, I'm Harshal Shrimali, a graduate student in Data Science at San Jose State U
 - 👯 I’m open to collaborate on open-source projects and innovative tech solutions.
 - 📫 How to reach me: harshal.shrimali@sjsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/harshalshrimali/).
  
-## [My Resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SDE.pdf)
+## [My Resume](https://github.com/shrimaliharshal/shrimaliharshal/blob/main/DS_HarshalShrimali_Resume.pdf)
  
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalshrimali/) 
