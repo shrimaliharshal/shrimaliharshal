@@ -52,7 +52,7 @@ Hi, I'm Harshal Shrimali, a graduate student in Data Science at San Jose State U
 # GitHub Stats
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrimaliharshal&theme=dark&hide_border=false)
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrimaliharshal&show_icons=true&theme=dark)
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrimaliharshal&show_icons=true&theme=dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimaliharshal&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 <!--
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akshat235&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10)
