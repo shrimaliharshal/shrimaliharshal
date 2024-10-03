@@ -50,6 +50,8 @@ Hi, I'm Harshal Shrimali, a graduate student in Data Science at San Jose State U
 ---
  
 # GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrimaliharshal&theme=blueberry-duo&hide_longest_streak=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrimaliharshal&theme=blueberry-duo&exclude_days=Sun%2CSat)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrimaliharshal&theme=blueberry-duo)
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrimaliharshal&show_icons=true&theme=dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimaliharshal&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
